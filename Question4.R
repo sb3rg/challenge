@@ -52,9 +52,8 @@ logind <- c(F, logind, F, rev(logind))
 # the indices are now c(9,17,497, 505)
 x[logind] <- b*x[logind]
 
-# take the inverse discrete fourier transform of the scaled response
-# divide the values by half and return only the real component of
-# complex number.
+# take the inverse discrete fourier transform of the scaled response,
+# normalize, and return only the real component of complex number vector.
 y <- Re(fft(x, inverse=T)/length(x))
 
 # generate a time series object scaled to a range that's in the
