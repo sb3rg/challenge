@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582332210167.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2019348426",
+    "id" : "A979FB17",
+    "lastKnownWriteTime" : 1582332232,
+    "last_content_update" : 1582332232393,
+    "path" : "C:/Users/Seanb/Desktop/2020-02 SQL Challenge/Questions1.sql",
+    "project_path" : "Questions1.sql",
+    "properties" : {
+        "cursorPosition" : "3,8",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sql"
+}
